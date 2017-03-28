@@ -1,15 +1,16 @@
 # Site settings
-title: Clean Blog
+title: Bucket List Coder
 header-img: img/home-bg.jpg
-email: your-email@yourdomain.com
-copyright_name: Your/Project/Corporate Name
-description: "Write your site description here. It will be used as your sites meta description as well!"
-baseurl: "#"
+email: chantellebecker1@gmail.com
+copyright_name: Chantelle Becker/Bucket List Coder
+description: "The Bucket List Coder - The technical (and life) lessons learned along the journey to becoming a better devleoper."
+baseurl: ""
 url: "http://yourdomain.com"
-twitter_username: SBootstrap
-github_username:  davidtmiller
-facebook_username:  StartBootstrap
-email_username:  your-email@yourdomain.com
+instagram_username: ohheychantay
+twitter_username: ohheychantay
+github_username:  chantellebecker 
+facebook_username:  chantelle.welp
+email_username:  chantellebecker1@gmail.com
 
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
